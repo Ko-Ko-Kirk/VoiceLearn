@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "voicelearn", "voicelearn\voicelearn.csproj", "{5B728A00-B04E-4857-B6D5-F87AAAE8363E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B728A00-B04E-4857-B6D5-F87AAAE8363E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B728A00-B04E-4857-B6D5-F87AAAE8363E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B728A00-B04E-4857-B6D5-F87AAAE8363E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B728A00-B04E-4857-B6D5-F87AAAE8363E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92B9650-A319-40CC-917E-8A007AA56817}
+	EndGlobalSection
+EndGlobal
